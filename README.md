@@ -11,3 +11,5 @@ While I am developing all my games, I develop the games with the algorithm that 
 Yes, i'm developing game a bit slow, but I will improve the game until I get it exactly the same. Maybe I'll try to make the interface the same.
 
 Important : Currently, there are no situations such as Buddy List, Personal Info and Typing, Deleting. I developed the current project in 2 hours. Therefore, I will bring updates as soon as possible.
+![hmhmhmh](https://github.com/ichuusy/EmilyIsAwayClone/assets/83366765/ba92f457-a3d6-497d-bc1e-ef084ee5296c)
+![hmhmhmhmhm](https://github.com/ichuusy/EmilyIsAwayClone/assets/83366765/17834cc6-1d0d-4517-b2c6-f9273adfce1e)
