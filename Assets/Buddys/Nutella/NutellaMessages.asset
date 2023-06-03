@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f63f3a0e5e8a914cbc6daaf54287c00, type: 3}
+  m_Name: NutellaMessages
+  m_EditorClassIdentifier: 
+  name: Nutella
+  messages:
+  - "Nutella sohbete kat\u0131ld\u0131."
+  - "\u0130yiyim, sen ne yap\u0131yorsun?"
+  - "Hala \xE7ok fazla geli\u015Fmesi gerekse de yine de iyi de\u011Fil mi sence?
+    Tam 1 saat 40 dakika da bu \u015Fekilde yapm\u0131\u015F."
+  personalInfo: Et severim
+  status: 1
